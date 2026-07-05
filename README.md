@@ -131,11 +131,31 @@
 ---
 <div align="center">
 
+<div align="center">
+
 # 🚀 Featured Work
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sanikaa205&repo=EduRights&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/Sanikaa205/EduRights">
+<img width="85%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sanikaa205&repo=EduRights&theme=tokyonight&hide_border=true&border_radius=15"/>
+</a>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sanikaa205&repo=Depression-Severity-Analyzer&theme=tokyonight&hide_border=true"/>
+<br><br>
+
+### 🌟 EduRights
+
+*A gamified legal awareness platform that helps children learn their rights through interactive stories, quizzes and educational games.*
+
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square"/>
+</p>
+
+<a href="https://github.com/Sanikaa205/EduRights">
+<img src="https://img.shields.io/badge/View%20Repository-7F5AF0?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
