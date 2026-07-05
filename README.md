@@ -78,3 +78,18 @@
 </div>
 
 ---
+<div align="center">
+
+# 📊 GitHub Analytics
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sanikaa205&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=C77DFF&icon_color=C77DFF&text_color=FFFFFF"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=Sanikaa205&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+<br><br>
+
+<img width="58%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanikaa205&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=C77DFF"/>
+
+</div>
+
+---
