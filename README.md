@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Sanikaa205/Sanikaa205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Sanika Shinde
 
-Here are some ideas to get you started:
+### 💜 Full Stack Developer | AI/ML Enthusiast | IT Engineering Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Turning+Ideas+into+Applications+🚀;Full+Stack+Developer+💻;Exploring+AI+%26+Machine+Learning+🧠;Always+Learning+Something+New+✨" />
+
+</div>
+
+---
+
+## 🌸 About Me
+
+- 🎓 Third Year Information Technology Student
+- 💻 Passionate about Full Stack Development
+- 🧠 Exploring AI & Machine Learning
+- 🚀 Building software that solves real-world problems
+- 🌱 Currently learning something new every day
+
+---
