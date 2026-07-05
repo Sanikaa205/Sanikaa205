@@ -129,3 +129,14 @@
 </div>
 
 ---
+<div align="center">
+
+# 🚀 Featured Work
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sanikaa205&repo=EduRights&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sanikaa205&repo=Depression-Severity-Analyzer&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
