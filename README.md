@@ -41,3 +41,40 @@
 - 📚 Continuously improving problem-solving skills
 
 ---
+<div align="center">
+
+# 💻 Tech Arsenal
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,python,c,mysql" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea,pycharm" />
+</p>
+
+</div>
+
+---
