@@ -1,25 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:7F5AF0,50:A855F7,100:EC4899&text=Sanika%20Shinde&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20AI/ML%20Explorer%20•%20IT%20Engineering%20Student&descAlignY=58&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:6C63FF,40:9D4EDD,100:C77DFF&text=Sanika%20Shinde&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Building%20real-world%20software%20with%20Java,%20MERN%20%26%20AI.&descAlignY=60&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=900&color=C084FC&center=true&vCenter=true&width=850&lines=Engineering+Ideas+Into+Reality+🚀;Building+Full+Stack+Applications+💻;Exploring+Artificial+Intelligence+🧠;Always+Learning+Something+New+✨" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2800&pause=900&color=C77DFF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Java+%7C+MERN+%7C+AI+Explorer;Building+Projects+That+Solve+Real+Problems;Always+Learning+Something+New+🚀"/>
 
 <br>
 
-<p>
-💜 Turning ideas into meaningful software through clean code, curiosity and continuous learning.
-</p>
+<a href="https://github.com/Sanikaa205">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-</div>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
----
-<div align="center">
-
-# Hi 👋 I'm Sanika Shinde
-
-### 💜 Full Stack Developer | AI/ML Enthusiast | IT Engineering Student
-
-*"Building software that solves real-world problems."*
+<a href="mailto:ssanikaa205@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
@@ -27,46 +24,20 @@
 
 ## 🌸 About Me
 
-- 🎓 Last Year Information Technology Student
+- 🎓 B.E. Information Technology Student (2023–2027)
 - 💻 Passionate about Full Stack Development
-- 🧠 Exploring AI & Machine Learning
-- 🚀 Building real-world projects
-- 🌱 Always learning something new
+- 🧠 Exploring Artificial Intelligence & Machine Learning
+- 🚀 Interested in Software Engineering & Real-World Problem Solving
+- 🌱 Always learning and building something new
 
 ---
-## 🛠️ Tech Stack
 
-### 💻 Languages
+## 🚀 Current Focus
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-
-### 🎨 Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### ⚙️ Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-### 🗄️ Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🛠️ Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS%20Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+- 🔭 Building impactful software projects
+- 🌱 Exploring AI, Machine Learning & Backend Development
+- 💡 Writing clean, maintainable code
+- 🤝 Open to internships and collaborations
+- 📚 Continuously improving problem-solving skills
 
 ---
