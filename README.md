@@ -80,15 +80,56 @@
 ---
 <div align="center">
 
+<div align="center">
+
 # 📊 GitHub Analytics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sanikaa205&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=C77DFF&icon_color=C77DFF&text_color=FFFFFF"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sanikaa205&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=Sanikaa205&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=Sanikaa205&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
-<img width="58%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanikaa205&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=C77DFF"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanikaa205&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+<div align="center">
+
+# 📈 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanikaa205&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+<div align="center">
+
+# 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sanikaa205&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&column=4"/>
+
+</div>
+
+---
+<div align="center">
+
+# 📌 Profile Summary
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sanikaa205&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sanikaa205&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sanikaa205&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sanikaa205&theme=tokyonight&utcOffset=5.5"/>
 
 </div>
 
