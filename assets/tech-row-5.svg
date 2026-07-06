@@ -1,1 +1,85 @@
 
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="42" viewBox="0 0 640 42" overflow="hidden">
+  <style>
+    .scroll { animation: s 18s linear infinite; }
+    @keyframes s {
+      0% { transform: translateX(0); }
+      100% { transform: translateX(-670px); }
+    }
+    text {
+      font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;
+      dominant-baseline: central;
+    }
+  </style>
+
+  <g class="scroll">
+
+    <!-- Postman -->
+    <rect x="0" y="1" width="105" height="40" rx="6" fill="#FF6C37"/>
+    <rect x="0" y="1" width="32" height="40" rx="6" fill="#555"/>
+    <rect x="6" y="1" width="26" height="40" fill="#555"/>
+    <text x="16" y="21" text-anchor="middle" font-size="10" font-weight="700" fill="#fff">PM</text>
+    <text x="69" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#fff">Postman</text>
+
+    <!-- Docker -->
+    <rect x="115" y="1" width="95" height="40" rx="6" fill="#2496ED"/>
+    <rect x="115" y="1" width="32" height="40" rx="6" fill="#555"/>
+    <rect x="121" y="1" width="26" height="40" fill="#555"/>
+    <text x="131" y="21" text-anchor="middle" font-size="10" font-weight="700" fill="#fff">DK</text>
+    <text x="173" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#fff">Docker</text>
+
+    <!-- MongoDB -->
+    <rect x="220" y="1" width="108" height="40" rx="6" fill="#47A248"/>
+    <rect x="220" y="1" width="32" height="40" rx="6" fill="#555"/>
+    <rect x="226" y="1" width="26" height="40" fill="#555"/>
+    <text x="236" y="21" text-anchor="middle" font-size="11" font-weight="700" fill="#fff">Mg</text>
+    <text x="289" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#fff">MongoDB</text>
+
+    <!-- MySQL -->
+    <rect x="338" y="1" width="92" height="40" rx="6" fill="#00758F"/>
+    <rect x="338" y="1" width="32" height="40" rx="6" fill="#555"/>
+    <rect x="344" y="1" width="26" height="40" fill="#555"/>
+    <text x="354" y="21" text-anchor="middle" font-size="11" font-weight="700" fill="#fff">My</text>
+    <text x="394" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#fff">MySQL</text>
+
+    <!-- Cloudinary -->
+    <rect x="440" y="1" width="120" height="40" rx="6" fill="#3448C5"/>
+    <rect x="440" y="1" width="32" height="40" rx="6" fill="#555"/>
+    <rect x="446" y="1" width="26" height="40" fill="#555"/>
+    <text x="456" y="21" text-anchor="middle" font-size="10" font-weight="700" fill="#fff">CL</text>
+    <text x="515" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#fff">Cloudinary</text>
+
+    <!-- Duplicate Set -->
+
+    <rect x="670" y="1" width="105" height="40" rx="6" fill="#FF6C37"/>
+    <rect x="670" y="1" width="32" height="40" rx="6" fill="#555"/>
+    <rect x="676" y="1" width="26" height="40" fill="#555"/>
+    <text x="686" y="21" text-anchor="middle" font-size="10" font-weight="700" fill="#fff">PM</text>
+    <text x="739" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#fff">Postman</text>
+
+    <rect x="785" y="1" width="95" height="40" rx="6" fill="#2496ED"/>
+    <rect x="785" y="1" width="32" height="40" rx="6" fill="#555"/>
+    <rect x="791" y="1" width="26" height="40" fill="#555"/>
+    <text x="801" y="21" text-anchor="middle" font-size="10" font-weight="700" fill="#fff">DK</text>
+    <text x="843" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#fff">Docker</text>
+
+    <rect x="890" y="1" width="108" height="40" rx="6" fill="#47A248"/>
+    <rect x="890" y="1" width="32" height="40" rx="6" fill="#555"/>
+    <rect x="896" y="1" width="26" height="40" fill="#555"/>
+    <text x="906" y="21" text-anchor="middle" font-size="11" font-weight="700" fill="#fff">Mg</text>
+    <text x="959" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#fff">MongoDB</text>
+
+    <rect x="1008" y="1" width="92" height="40" rx="6" fill="#00758F"/>
+    <rect x="1008" y="1" width="32" height="40" rx="6" fill="#555"/>
+    <rect x="1014" y="1" width="26" height="40" fill="#555"/>
+    <text x="1024" y="21" text-anchor="middle" font-size="11" font-weight="700" fill="#fff">My</text>
+    <text x="1064" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#fff">MySQL</text>
+
+    <rect x="1110" y="1" width="120" height="40" rx="6" fill="#3448C5"/>
+    <rect x="1110" y="1" width="32" height="40" rx="6" fill="#555"/>
+    <rect x="1116" y="1" width="26" height="40" fill="#555"/>
+    <text x="1126" y="21" text-anchor="middle" font-size="10" font-weight="700" fill="#fff">CL</text>
+    <text x="1185" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#fff">Cloudinary</text>
+
+  </g>
+</svg>
