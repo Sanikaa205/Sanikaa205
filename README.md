@@ -27,7 +27,8 @@
 </div>
 
 <div align="center">
-# Devloper's Snapshot
+  
+
 
 <table>
 <tr>
