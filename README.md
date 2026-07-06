@@ -1,19 +1,23 @@
 <div align="center">
 
-# Sanika Shinde
+<h1>Sanika Shinde</h1>
 
-### Full Stack Engineer • Java • MERN • AI Applications
+<h3>
+Full Stack Engineer • Java • MERN • AI Applications
+</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+software+that+solves+real-world+problems.;Engineering+clean+and+maintainable+applications.;Always+learning.+Always+building." />
+<p>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Engineering+clean+and+maintainable+applications.;Building+software+that+solves+real-world+problems.;Always+learning.+Always+building."/>
+</p>
 
-<br>
+<p>
 
-<a href="YOUR_PORTFOLIO_LINK">
+<a href="YOUR_PORTFOLIO">
 <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
@@ -21,67 +25,14 @@
 </a>
 
 <a href="https://github.com/Sanikaa205">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
+
+</p>
 
 </div>
 
-<div align="center">
-  
-
-
-<table>
-<tr>
-<td width="50%">
-
-### 💡 Focus
-
-- Full Stack Development
-- AI-Powered Applications
-- Backend Engineering
-- Clean Architecture
-
-</td>
-
-<td width="50%">
-
-### ⚡ Tech
-
-- Java
-- JavaScript
-- Python
-- MERN Stack
-- SQL
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 🎯 Interests
-
-- Software Engineering
-- System Design
-- Problem Solving
-- Open Source
-
-</td>
-
-<td>
-
-### 🌍 Location
-
-India 🇮🇳
-
-Always building.
-Always improving.
-
-</td>
-</tr>
-</table>
-
-</dic>
+---
 
 <div align="center">
 
