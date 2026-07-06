@@ -54,8 +54,8 @@ My work spans the **MERN stack** for full-stack products, **Python** for machine
 
 <div align="center">
   <img src="./assets/tech-row-1.svg" width="850" alt="Programming Languages"/>
-  <img src="./assets/tech-row-3.svg" width="850" alt="Frontend"/>
-  <img src="./assets/tech-row-2.svg" width="850" alt="Backend & Databases"/>
+  <img src="./assets/tech-row-2.svg" width="850" alt="Frontend"/>
+  <img src="./assets/tech-row-3.svg" width="850" alt="Backend & Databases"/>
   <img src="./assets/tech-row-4.svg" width="850" alt="Tools "/>
   <img src="./assets/tech-row-5.svg" width="850" alt="Platforms"/>
   
