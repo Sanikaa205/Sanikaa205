@@ -32,7 +32,61 @@ Full Stack Engineer • Java • MERN • AI Applications
 
 </div>
 
----
+## 👩‍💻 Developer Snapshot
+
+<table>
+<tr>
+
+<td width="25%" align="center">
+
+### 🎓
+
+**Education**
+
+Information Technology
+
+</td>
+
+<td width="25%" align="center">
+
+### ⚙
+
+**Focus**
+
+Full Stack
+
+AI Applications
+
+</td>
+
+<td width="25%" align="center">
+
+### 💻
+
+**Core Stack**
+
+Java
+
+MERN
+
+Python
+
+</td>
+
+<td width="25%" align="center">
+
+### 🌍
+
+**Based In**
+
+India 🇮🇳
+
+</td>
+
+</tr>
+</table>
+
+
 
 <div align="center">
 
