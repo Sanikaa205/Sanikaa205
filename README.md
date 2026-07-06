@@ -26,7 +26,7 @@
 
 </div>
 
-## 👩‍💻 Developer Snapshot
+<div align="center">
 
 <table>
 <tr>
@@ -79,7 +79,7 @@ Always improving.
 </tr>
 </table>
 
-
+</dic>
 
 <div align="center">
   <img src="./assets/tech-row-1.svg" width="850" alt="Programming Languages"/>
