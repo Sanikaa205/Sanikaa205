@@ -1,1 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="42" viewBox="0 0 640 42" overflow="hidden">
+  <style>
+    .scroll { animation: s 18s linear infinite; }
+    @keyframes s {
+      0% { transform: translateX(-670px); }
+      100% { transform: translateX(0); }
+    }
+    text {
+      font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;
+      dominant-baseline: central;
+    }
+  </style>
 
+  <g class="scroll">
+
+    <!-- Git -->
+    <rect x="0" y="1" width="75" height="40" rx="6" fill="#F05032"/>
+    <rect x="0" y="1" width="32" height="40" rx="6" fill="#555"/>
+    <rect x="6" y="1" width="26" height="40" fill="#555"/>
+    <text x="16" y="21" text-anchor="middle" font-size="11" font-weight="700" fill="#fff">Gt</text>
+    <text x="52" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#fff">Git</text>
+
+    <!-- GitHub -->
+    <rect x="85" y="1" width="100" height="40" rx="6" fill="#181717"/>
+    <rect x="85" y="1" width="32" height="40" rx="6" fill="#555"/>
+    <rect x="91" y="1" width="26" height="40" fill="#555"/>
+    <text x="101" y="21" text-anchor="middle" font-size="11" font-weight="700" fill="#fff">GH</text>
+    <text x="145" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#fff">GitHub</text>
+
+    <!-- VS Code -->
+    <rect x="195" y="1" width="105" height="40" rx="6" fill="#007ACC"/>
+    <rect x="195" y="1" width="32" height="40" rx="6" fill="#555"/>
+    <rect x="201" y="1" width="26" height="40" fill="#555"/>
+    <text x="211" y="21" text-anchor="middle" font-size="10" font-weight="700" fill="#fff">VS</text>
+    <text x="253" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#fff">VS Code</text>
+
+    <!-- IntelliJ IDEA -->
+    <rect x="310" y="1" width="145" height="40" rx="6" fill="#000000"/>
+    <rect x="310" y="1" width="32" height="40" rx="6" fill="#555"/>
+    <rect x="316" y="1" width="26" height="40" fill="#555"/>
+    <text x="326" y="21" text-anchor="middle" font-size="10" font-weight="700" fill="#fff">IJ</text>
+    <text x="387" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#fff">IntelliJ IDEA</text>
+
+    <!-- PyCharm -->
+    <rect x="465" y="1" width="105" height="40" rx="6" fill="#21D789"/>
+    <rect x="465" y="1" width="32" height="40" rx="6" fill="#555"/>
+    <rect x="471" y="1" width="26" height="40" fill="#555"/>
+    <text x="481" y="21" text-anchor="middle" font-size="10" font-weight="700" fill="#fff">PC</text>
+    <text x="525" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#000">PyCharm</text>
+
+    <!-- Duplicate Set -->
+
+    <rect x="670" y="1" width="75" height="40" rx="6" fill="#F05032"/>
+    <rect x="670" y="1" width="32" height="40" rx="6" fill="#555"/>
+    <rect x="676" y="1" width="26" height="40" fill="#555"/>
+    <text x="686" y="21" text-anchor="middle" font-size="11" font-weight="700" fill="#fff">Gt</text>
+    <text x="722" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#fff">Git</text>
+
+    <rect x="755" y="1" width="100" height="40" rx="6" fill="#181717"/>
+    <rect x="755" y="1" width="32" height="40" rx="6" fill="#555"/>
+    <rect x="761" y="1" width="26" height="40" fill="#555"/>
+    <text x="771" y="21" text-anchor="middle" font-size="11" font-weight="700" fill="#fff">GH</text>
+    <text x="815" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#fff">GitHub</text>
+
+    <rect x="865" y="1" width="105" height="40" rx="6" fill="#007ACC"/>
+    <rect x="865" y="1" width="32" height="40" rx="6" fill="#555"/>
+    <rect x="871" y="1" width="26" height="40" fill="#555"/>
+    <text x="881" y="21" text-anchor="middle" font-size="10" font-weight="700" fill="#fff">VS</text>
+    <text x="923" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#fff">VS Code</text>
+
+    <rect x="980" y="1" width="145" height="40" rx="6" fill="#000000"/>
+    <rect x="980" y="1" width="32" height="40" rx="6" fill="#555"/>
+    <rect x="986" y="1" width="26" height="40" fill="#555"/>
+    <text x="996" y="21" text-anchor="middle" font-size="10" font-weight="700" fill="#fff">IJ</text>
+    <text x="1057" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#fff">IntelliJ IDEA</text>
+
+    <rect x="1135" y="1" width="105" height="40" rx="6" fill="#21D789"/>
+    <rect x="1135" y="1" width="32" height="40" rx="6" fill="#555"/>
+    <rect x="1141" y="1" width="26" height="40" fill="#555"/>
+    <text x="1151" y="21" text-anchor="middle" font-size="10" font-weight="700" fill="#fff">PC</text>
+    <text x="1195" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#000">PyCharm</text>
+
+  </g>
+</svg>
