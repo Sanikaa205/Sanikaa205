@@ -26,7 +26,9 @@
 
 </div>
 
-
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=3"/>
+</p>
 
 <div align="center">
   <img src="./assets/tech-row-1.svg" width="850" alt="Programming Languages"/>
