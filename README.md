@@ -20,14 +20,6 @@
 
 <br/>
 
-## About Me
-
-I'm an Information Technology undergraduate with a strong interest in **Full Stack Development**, **Artificial Intelligence**, **Machine Learning**, and **Computer Vision**. I like building software that actually does something — not just tutorial clones, but working applications with real users, real data, and real edge cases to think through.
-
-My work spans the **MERN stack** for full-stack products, **Python** for machine learning and computer vision experiments, and **SQL** for the data layer underneath it all. I'm still early in my engineering journey, and I prefer learning by shipping — every project below was built to solve a specific problem, end to end.
-
-<br/>
-
 ## Developer Snapshot
 
 <div align="center">
