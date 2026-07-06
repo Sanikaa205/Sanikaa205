@@ -1,82 +1,71 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="748" height="42" viewBox="0 0 748 42" overflow="hidden">
+<svg xmlns="http://www.w3.org/2000/svg" width="576" height="42" viewBox="0 0 576 42" overflow="hidden">
   <style>
-    .scroll { animation: s 22s linear infinite; }
-    @keyframes s { 0%{transform:translateX(-778px)} 100%{transform:translateX(0)} }
-    text { font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; dominant-baseline: central; }
+    .scroll { animation: s 18s linear infinite; }
+    @keyframes s { 0%{transform:translateX(-606px)} 100%{transform:translateX(0)} }
+    text {
+      font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;
+      dominant-baseline: central;
+    }
   </style>
+
   <g class="scroll">
-    <!-- Node.js -->
-    <rect x="0" y="1" width="92" height="40" rx="6" fill="#339933"/>
+
+    <!-- Java -->
+    <rect x="0" y="1" width="82" height="40" rx="6" fill="#ED8B00"/>
     <rect x="0" y="1" width="32" height="40" rx="6" fill="#555"/><rect x="6" y="1" width="26" height="40" fill="#555"/>
-    <text x="16" y="21" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">Nd</text>
-    <text x="62" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#fff">Node.js</text>
-    <!-- Express -->
-    <rect x="102" y="1" width="96" height="40" rx="6" fill="#000"/>
-    <rect x="102" y="1" width="32" height="40" rx="6" fill="#555"/><rect x="108" y="1" width="26" height="40" fill="#555"/>
-    <text x="118" y="21" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">Ex</text>
-    <text x="166" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#fff">Express</text>
-    <!-- Flask -->
-    <rect x="208" y="1" width="82" height="40" rx="6" fill="#000"/>
-    <rect x="208" y="1" width="32" height="40" rx="6" fill="#555"/><rect x="214" y="1" width="26" height="40" fill="#555"/>
-    <text x="224" y="21" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">Fl</text>
-    <text x="265" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#fff">Flask</text>
-    <!-- Spring Boot -->
-    <rect x="300" y="1" width="120" height="40" rx="6" fill="#6DB33F"/>
-    <rect x="300" y="1" width="32" height="40" rx="6" fill="#555"/><rect x="306" y="1" width="26" height="40" fill="#555"/>
-    <text x="316" y="21" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">SB</text>
-    <text x="376" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#fff">Spring Boot</text>
-    <!-- PostgreSQL -->
-    <rect x="430" y="1" width="114" height="40" rx="6" fill="#4169E1"/>
-    <rect x="430" y="1" width="32" height="40" rx="6" fill="#555"/><rect x="436" y="1" width="26" height="40" fill="#555"/>
-    <text x="446" y="21" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">Pg</text>
-    <text x="503" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#fff">PostgreSQL</text>
-    <!-- MongoDB -->
-    <rect x="554" y="1" width="102" height="40" rx="6" fill="#47A248"/>
-    <rect x="554" y="1" width="32" height="40" rx="6" fill="#555"/><rect x="560" y="1" width="26" height="40" fill="#555"/>
-    <text x="570" y="21" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">Mg</text>
-    <text x="621" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#fff">MongoDB</text>
-    <!-- Redis -->
-    <rect x="666" y="1" width="82" height="40" rx="6" fill="#DC382D"/>
-    <rect x="666" y="1" width="32" height="40" rx="6" fill="#555"/><rect x="672" y="1" width="26" height="40" fill="#555"/>
-    <text x="682" y="21" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">Rd</text>
-    <text x="723" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#fff">Redis</text>
+    <text x="16" y="21" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">Jv</text>
+    <text x="57" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#fff">Java</text>
 
-    <!-- Duplicate set (+778) -->
-    <rect x="778" y="1" width="92" height="40" rx="6" fill="#339933"/>
-    <rect x="778" y="1" width="32" height="40" rx="6" fill="#555"/><rect x="784" y="1" width="26" height="40" fill="#555"/>
-    <text x="794" y="21" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">Nd</text>
-    <text x="840" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#fff">Node.js</text>
+    <!-- Python -->
+    <rect x="92" y="1" width="96" height="40" rx="6" fill="#3776AB"/>
+    <rect x="92" y="1" width="32" height="40" rx="6" fill="#555"/><rect x="98" y="1" width="26" height="40" fill="#555"/>
+    <text x="108" y="21" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">Py</text>
+    <text x="156" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#fff">Python</text>
 
-    <rect x="880" y="1" width="96" height="40" rx="6" fill="#000"/>
-    <rect x="880" y="1" width="32" height="40" rx="6" fill="#555"/><rect x="886" y="1" width="26" height="40" fill="#555"/>
-    <text x="896" y="21" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">Ex</text>
-    <text x="944" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#fff">Express</text>
+    <!-- JavaScript -->
+    <rect x="198" y="1" width="116" height="40" rx="6" fill="#F7DF1E"/>
+    <rect x="198" y="1" width="32" height="40" rx="6" fill="#555"/><rect x="204" y="1" width="26" height="40" fill="#555"/>
+    <text x="214" y="21" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">JS</text>
+    <text x="272" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#000">JavaScript</text>
 
-    <rect x="986" y="1" width="82" height="40" rx="6" fill="#000"/>
-    <rect x="986" y="1" width="32" height="40" rx="6" fill="#555"/><rect x="992" y="1" width="26" height="40" fill="#555"/>
-    <text x="1002" y="21" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">Fl</text>
-    <text x="1043" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#fff">Flask</text>
+    <!-- C -->
+    <rect x="324" y="1" width="70" height="40" rx="6" fill="#00599C"/>
+    <rect x="324" y="1" width="32" height="40" rx="6" fill="#555"/><rect x="330" y="1" width="26" height="40" fill="#555"/>
+    <text x="340" y="21" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">C</text>
+    <text x="372" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#fff">C</text>
 
-    <rect x="1078" y="1" width="120" height="40" rx="6" fill="#6DB33F"/>
-    <rect x="1078" y="1" width="32" height="40" rx="6" fill="#555"/><rect x="1084" y="1" width="26" height="40" fill="#555"/>
-    <text x="1094" y="21" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">SB</text>
-    <text x="1154" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#fff">Spring Boot</text>
+    <!-- SQL -->
+    <rect x="404" y="1" width="82" height="40" rx="6" fill="#336791"/>
+    <rect x="404" y="1" width="32" height="40" rx="6" fill="#555"/><rect x="410" y="1" width="26" height="40" fill="#555"/>
+    <text x="420" y="21" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">DB</text>
+    <text x="461" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#fff">SQL</text>
 
-    <rect x="1208" y="1" width="114" height="40" rx="6" fill="#4169E1"/>
-    <rect x="1208" y="1" width="32" height="40" rx="6" fill="#555"/><rect x="1214" y="1" width="26" height="40" fill="#555"/>
-    <text x="1224" y="21" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">Pg</text>
-    <text x="1281" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#fff">PostgreSQL</text>
+    <!-- Duplicate Set (+606) -->
 
-    <rect x="1332" y="1" width="102" height="40" rx="6" fill="#47A248"/>
-    <rect x="1332" y="1" width="32" height="40" rx="6" fill="#555"/><rect x="1338" y="1" width="26" height="40" fill="#555"/>
-    <text x="1348" y="21" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">Mg</text>
-    <text x="1399" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#fff">MongoDB</text>
+    <rect x="606" y="1" width="82" height="40" rx="6" fill="#ED8B00"/>
+    <rect x="606" y="1" width="32" height="40" rx="6" fill="#555"/><rect x="612" y="1" width="26" height="40" fill="#555"/>
+    <text x="622" y="21" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">Jv</text>
+    <text x="663" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#fff">Java</text>
 
-    <rect x="1444" y="1" width="82" height="40" rx="6" fill="#DC382D"/>
-    <rect x="1444" y="1" width="32" height="40" rx="6" fill="#555"/><rect x="1450" y="1" width="26" height="40" fill="#555"/>
-    <text x="1460" y="21" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">Rd</text>
-    <text x="1501" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#fff">Redis</text>
+    <rect x="698" y="1" width="96" height="40" rx="6" fill="#3776AB"/>
+    <rect x="698" y="1" width="32" height="40" rx="6" fill="#555"/><rect x="704" y="1" width="26" height="40" fill="#555"/>
+    <text x="714" y="21" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">Py</text>
+    <text x="762" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#fff">Python</text>
+
+    <rect x="804" y="1" width="116" height="40" rx="6" fill="#F7DF1E"/>
+    <rect x="804" y="1" width="32" height="40" rx="6" fill="#555"/><rect x="810" y="1" width="26" height="40" fill="#555"/>
+    <text x="820" y="21" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">JS</text>
+    <text x="878" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#000">JavaScript</text>
+
+    <rect x="930" y="1" width="70" height="40" rx="6" fill="#00599C"/>
+    <rect x="930" y="1" width="32" height="40" rx="6" fill="#555"/><rect x="936" y="1" width="26" height="40" fill="#555"/>
+    <text x="946" y="21" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">C</text>
+    <text x="978" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#fff">C</text>
+
+    <rect x="1010" y="1" width="82" height="40" rx="6" fill="#336791"/>
+    <rect x="1010" y="1" width="32" height="40" rx="6" fill="#555"/><rect x="1016" y="1" width="26" height="40" fill="#555"/>
+    <text x="1026" y="21" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">DB</text>
+    <text x="1067" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#fff">SQL</text>
+
   </g>
 </svg>
-
-
