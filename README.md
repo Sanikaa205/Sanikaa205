@@ -44,6 +44,8 @@ My work spans the **MERN stack** for full-stack products, **Python** for machine
 
 <br/>
 
+## Tech-Stack
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=2&width=1000&section=header" width="100%"/>
 </div>
