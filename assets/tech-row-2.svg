@@ -1,1 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="610" height="42" viewBox="0 0 610 42" overflow="hidden">
+  <style>
+    .scroll { animation: s 16s linear infinite; }
+    @keyframes s {
+      0% { transform: translateX(0); }
+      100% { transform: translateX(-640px); }
+    }
+    text {
+      font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;
+      dominant-baseline: central;
+    }
+  </style>
 
+  <g class="scroll">
+
+    <!-- HTML5 -->
+    <rect x="0" y="1" width="100" height="40" rx="6" fill="#E34F26"/>
+    <rect x="0" y="1" width="32" height="40" rx="6" fill="#555"/>
+    <rect x="6" y="1" width="26" height="40" fill="#555"/>
+    <text x="16" y="21" text-anchor="middle" font-size="11" font-weight="700" fill="#fff">H5</text>
+    <text x="65" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#fff">HTML5</text>
+
+    <!-- CSS3 -->
+    <rect x="110" y="1" width="95" height="40" rx="6" fill="#1572B6"/>
+    <rect x="110" y="1" width="32" height="40" rx="6" fill="#555"/>
+    <rect x="116" y="1" width="26" height="40" fill="#555"/>
+    <text x="126" y="21" text-anchor="middle" font-size="11" font-weight="700" fill="#fff">C3</text>
+    <text x="170" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#fff">CSS3</text>
+
+    <!-- React -->
+    <rect x="215" y="1" width="90" height="40" rx="6" fill="#61DAFB"/>
+    <rect x="215" y="1" width="32" height="40" rx="6" fill="#555"/>
+    <rect x="221" y="1" width="26" height="40" fill="#555"/>
+    <text x="231" y="21" text-anchor="middle" font-size="11" font-weight="700" fill="#fff">Re</text>
+    <text x="273" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#000">React</text>
+
+    <!-- Tailwind CSS -->
+    <rect x="315" y="1" width="145" height="40" rx="6" fill="#06B6D4"/>
+    <rect x="315" y="1" width="32" height="40" rx="6" fill="#555"/>
+    <rect x="321" y="1" width="26" height="40" fill="#555"/>
+    <text x="331" y="21" text-anchor="middle" font-size="10" font-weight="700" fill="#fff">TW</text>
+    <text x="392" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#fff">Tailwind CSS</text>
+
+    <!-- Vite -->
+    <rect x="470" y="1" width="80" height="40" rx="6" fill="#646CFF"/>
+    <rect x="470" y="1" width="32" height="40" rx="6" fill="#555"/>
+    <rect x="476" y="1" width="26" height="40" fill="#555"/>
+    <text x="486" y="21" text-anchor="middle" font-size="11" font-weight="700" fill="#fff">Vi</text>
+    <text x="520" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#fff">Vite</text>
+
+    <!-- Duplicate Set (+640) -->
+
+    <!-- HTML5 -->
+    <rect x="640" y="1" width="100" height="40" rx="6" fill="#E34F26"/>
+    <rect x="640" y="1" width="32" height="40" rx="6" fill="#555"/>
+    <rect x="646" y="1" width="26" height="40" fill="#555"/>
+    <text x="656" y="21" text-anchor="middle" font-size="11" font-weight="700" fill="#fff">H5</text>
+    <text x="705" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#fff">HTML5</text>
+
+    <!-- CSS3 -->
+    <rect x="750" y="1" width="95" height="40" rx="6" fill="#1572B6"/>
+    <rect x="750" y="1" width="32" height="40" rx="6" fill="#555"/>
+    <rect x="756" y="1" width="26" height="40" fill="#555"/>
+    <text x="766" y="21" text-anchor="middle" font-size="11" font-weight="700" fill="#fff">C3</text>
+    <text x="810" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#fff">CSS3</text>
+
+    <!-- React -->
+    <rect x="855" y="1" width="90" height="40" rx="6" fill="#61DAFB"/>
+    <rect x="855" y="1" width="32" height="40" rx="6" fill="#555"/>
+    <rect x="861" y="1" width="26" height="40" fill="#555"/>
+    <text x="871" y="21" text-anchor="middle" font-size="11" font-weight="700" fill="#fff">Re</text>
+    <text x="913" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#000">React</text>
+
+    <!-- Tailwind CSS -->
+    <rect x="955" y="1" width="145" height="40" rx="6" fill="#06B6D4"/>
+    <rect x="955" y="1" width="32" height="40" rx="6" fill="#555"/>
+    <rect x="961" y="1" width="26" height="40" fill="#555"/>
+    <text x="971" y="21" text-anchor="middle" font-size="10" font-weight="700" fill="#fff">TW</text>
+    <text x="1032" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#fff">Tailwind CSS</text>
+
+    <!-- Vite -->
+    <rect x="1110" y="1" width="80" height="40" rx="6" fill="#646CFF"/>
+    <rect x="1110" y="1" width="32" height="40" rx="6" fill="#555"/>
+    <rect x="1116" y="1" width="26" height="40" fill="#555"/>
+    <text x="1126" y="21" text-anchor="middle" font-size="11" font-weight="700" fill="#fff">Vi</text>
+    <text x="1160" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#fff">Vite</text>
+
+  </g>
+</svg>
