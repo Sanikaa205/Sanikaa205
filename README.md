@@ -1,48 +1,33 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=2&width=1000&section=header" width="100%"/>
-
-<br/>
-
 # Sanika Shinde
 
-<a href="https://github.com/Sanikaa205">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+AI%2FML+Enthusiast;Building+practical%2C+real-world+software;React+%C2%B7+Node.js+%C2%B7+Python+%C2%B7+MongoDB" alt="Typing SVG" />
+### Full Stack Engineer • Java • MERN • AI Applications
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+software+that+solves+real-world+problems.;Engineering+clean+and+maintainable+applications.;Always+learning.+Always+building." />
+
+<br>
+
+<a href="YOUR_PORTFOLIO_LINK">
+<img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<sub>Information Technology Undergraduate · Aspiring Software Engineer</sub>
+<a href="YOUR_LINKEDIN_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<br/><br/>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=2&width=1000&section=header" width="100%"/>
-
-</div>
-
-<br/>
-
-
-
-<div align="center">
-
-| | |
-|:--|:--|
-| 🎓 **Education** | Information Technology Undergraduate |
-| ⚙️ **Focus Areas** | Full Stack Development · AI/ML · Computer Vision |
-| 🧩 **Core Stack** | Java · JavaScript · Python · MERN · SQL |
-| 🧠 **Approach** | Learning by building complete, working projects |
-| 🌍 **Based in** | India |
+<a href="https://github.com/Sanikaa205">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
-<br/>
+---
 
-
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=2&width=1000&section=header" width="100%"/>
-</div>
-
-<br/>
 
 <div align="center">
   <img src="./assets/tech-row-1.svg" width="850" alt="Programming Languages"/>
