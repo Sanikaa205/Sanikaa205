@@ -50,99 +50,12 @@ My work spans the **MERN stack** for full-stack products, **Python** for machine
 
 <br/>
 
-## 💻 Tech Stack
-
 <div align="center">
-
-<table>
-<tr>
-
-<td valign="top" width="50%">
-
-### 🧠 Programming
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,python,js,c" />
-</p>
-
-</td>
-
-<td valign="top" width="50%">
-
-### 🎨 Frontend
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" />
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td valign="top">
-
-### ⚙️ Backend
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi" />
-</p>
-
-</td>
-
-<td valign="top">
-
-### 🗄️ Databases
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,sqlite" />
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td valign="top">
-
-### 🤖 AI & Machine Learning
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-</p>
-
-</td>
-
-<td valign="top">
-
-### 👁️ Computer Vision
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=opencv" />
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td colspan="2">
-
-### 🛠️ Tools & Platforms
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,figma,idea" />
-</p>
-
-</td>
-
-</tr>
-
-</table>
-
+  <img src="./assets/tech-row-1.svg" width="850" alt="Programming Languages"/>
+  <img src="./assets/tech-row-3.svg" width="850" alt="Frontend"/>
+  <img src="./assets/tech-row-2.svg" width="850" alt="Backend & Databases"/>
+  <img src="./assets/tech-row-3.svg" width="850" alt="Tools & Platforms"/>
+  
 </div>
 
 ## Featured Projects
