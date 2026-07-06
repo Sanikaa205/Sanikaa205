@@ -26,9 +26,60 @@
 
 </div>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=3"/>
-</p>
+## 👩‍💻 Developer Snapshot
+
+<table>
+<tr>
+<td width="50%">
+
+### 💡 Focus
+
+- Full Stack Development
+- AI-Powered Applications
+- Backend Engineering
+- Clean Architecture
+
+</td>
+
+<td width="50%">
+
+### ⚡ Tech
+
+- Java
+- JavaScript
+- Python
+- MERN Stack
+- SQL
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🎯 Interests
+
+- Software Engineering
+- System Design
+- Problem Solving
+- Open Source
+
+</td>
+
+<td>
+
+### 🌍 Location
+
+India 🇮🇳
+
+Always building.
+Always improving.
+
+</td>
+</tr>
+</table>
+
+
 
 <div align="center">
   <img src="./assets/tech-row-1.svg" width="850" alt="Programming Languages"/>
