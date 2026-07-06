@@ -50,53 +50,100 @@ My work spans the **MERN stack** for full-stack products, **Python** for machine
 
 <br/>
 
-## Tech Stack
+## 💻 Tech Stack
 
 <div align="center">
 
-**Languages**
+<table>
+<tr>
 
-<img src="https://skillicons.dev/icons?i=java,js,python&theme=dark" />
+<td valign="top" width="50%">
 
-<br/><br/>
+### 🧠 Programming
 
-**Frontend**
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,python,js,c" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=react,tailwind,html,css&theme=dark" />
+</td>
 
-<br/><br/>
+<td valign="top" width="50%">
 
-**Backend**
+### 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi&theme=dark" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" />
+</p>
 
-<br/><br/>
+</td>
 
-**Databases**
+</tr>
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite&theme=dark" />
+<tr>
 
-<br/><br/>
+<td valign="top">
 
-**AI / ML & Computer Vision**
+### ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=pytorch,opencv&theme=dark" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi" />
+</p>
 
-<br/><br/>
+</td>
 
-**Tools & Platforms**
+<td valign="top">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&theme=dark" />
+### 🗄️ Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,sqlite" />
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
+
+### 🤖 AI & Machine Learning
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
+
+</td>
+
+<td valign="top">
+
+### 👁️ Computer Vision
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=opencv" />
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2">
+
+### 🛠️ Tools & Platforms
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,figma,idea" />
+</p>
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=2&width=1000&section=header" width="100%"/>
-</div>
-
-<br/>
 
 ## Featured Projects
 
