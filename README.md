@@ -32,61 +32,29 @@ Full Stack Engineer • Java • MERN • AI Applications
 
 </div>
 
-## 👩‍💻 Developer Snapshot
+<div align="center">
 
-<table>
-<tr>
+# 👨🏻‍💻 Developer Snapshot
 
-<td width="25%" align="center">
+<br>
 
-### 🎓
+<img src="https://img.shields.io/badge/🎓%20Education-Information%20Technology%20Undergraduate-161B22?style=for-the-badge"/>
 
-**Education**
+<br><br>
 
-Information Technology
+<img src="https://img.shields.io/badge/⚙️%20Focus-Full%20Stack%20Development%20•%20AI%20Applications-161B22?style=for-the-badge"/>
 
-</td>
+<br><br>
 
-<td width="25%" align="center">
+<img src="https://img.shields.io/badge/💻%20Core%20Stack-Java%20•%20JavaScript%20•%20Python%20•%20MERN%20•%20SQL-161B22?style=for-the-badge"/>
 
-### ⚙
+<br><br>
 
-**Focus**
+<img src="https://img.shields.io/badge/🌍%20Location-India-161B22?style=for-the-badge"/>
 
-Full Stack
+</div>
 
-AI Applications
-
-</td>
-
-<td width="25%" align="center">
-
-### 💻
-
-**Core Stack**
-
-Java
-
-MERN
-
-Python
-
-</td>
-
-<td width="25%" align="center">
-
-### 🌍
-
-**Based In**
-
-India 🇮🇳
-
-</td>
-
-</tr>
-</table>
-
-
+---
 
 <div align="center">
 
