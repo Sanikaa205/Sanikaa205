@@ -21,10 +21,7 @@
 
 <div align="center">
 
-I'm an Information Technology undergraduate and an aspiring Software Engineer, focused on **Full Stack Development** and **AI-powered applications**. I build complete, working products — end to end — rather than isolated exercises: a gamified full-stack learning platform, a fine-tuned transformer model for text classification, and a computer vision tool built on deep learning segmentation.
-
-My core stack spans **Java, JavaScript, Python, the MERN stack, and SQL**, with hands-on experience applying **PyTorch** and **OpenCV** to real problems. I approach engineering with a product mindset — thinking about the user experience and the system underneath it, not just the code that makes a feature work.
-
+Information Technology undergraduate with a strong interest in **Full Stack Development** and **Artificial Intelligence**. I enjoy building practical, end-to-end applications that combine clean design with reliable functionality.
 </div>
 
 <br/>
@@ -186,25 +183,7 @@ A web application that scores a resume's compatibility against a job description
 
 <br/>
 
-## GitHub Analytics
 
-<div align="center">
-
-<a href="https://github.com/Sanikaa205">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sanikaa205&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB&rank_icon=github&include_all_commits=true&count_private=true"/>
-</a>
-
-<a href="https://github.com/Sanikaa205">
-  <img height="170" src="https://streak-stats.demolab.com?user=Sanikaa205&theme=transparent&hide_border=true&background=00000000&stroke=444C56&ring=A78BFA&fire=8B5CF6&currStreakLabel=C4B5FD&sideNums=E5E7EB&currStreakNum=FFFFFF&dates=9CA3AF&sideLabels=9CA3AF"/>
-</a>
-
-<br><br>
-
-<a href="https://github.com/Sanikaa205">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sanikaa205&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=E5E7EB&langs_count=8"/>
-</a>
-
-</div>
 
 ---
 
@@ -218,7 +197,7 @@ A web application that scores a resume's compatibility against a job description
 
 <br/>
 
----
+
 
 <br/>
 
