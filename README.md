@@ -13,10 +13,6 @@
 
 <br/><br/>
 
-<a href="https://portfolio-9b464.web.app/"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
-<a href="https://www.linkedin.com/in/sanika-shinde-006b932b5/"><img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" /></a>
-<a href="mailto:ssanikaa205@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" /></a>
-<a href="https://github.com/Sanikaa205"><img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" /></a>
 
 <br/><br/>
 
