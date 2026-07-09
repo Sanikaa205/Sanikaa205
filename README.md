@@ -21,7 +21,7 @@
 
 <div align="center">
 
-Information Technology undergraduate with a strong interest in **Full Stack Development** and **Artificial Intelligence**. I enjoy building practical, end-to-end applications that combine clean design with reliable functionality.
+I'm an Information Technology undergraduate passionate about **Full Stack Development** and **AI-powered applications**. I enjoy building end-to-end software that combines clean architecture, intuitive user experiences, and practical problem-solving. Always exploring new technologies, improving my skills, and turning ideas into meaningful products.
 </div>
 
 <br/>
