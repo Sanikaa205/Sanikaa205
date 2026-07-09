@@ -190,16 +190,23 @@ A web application that scores a resume's compatibility against a job description
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sanikaa205&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" height="165"/>
-<img src="https://streak-stats.demolab.com?user=Sanikaa205&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" height="165"/>
+<a href="https://github.com/Sanikaa205">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sanikaa205&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB&rank_icon=github&include_all_commits=true&count_private=true"/>
+</a>
 
-<br/>
+<a href="https://github.com/Sanikaa205">
+  <img height="170" src="https://streak-stats.demolab.com?user=Sanikaa205&theme=transparent&hide_border=true&background=00000000&stroke=444C56&ring=A78BFA&fire=8B5CF6&currStreakLabel=C4B5FD&sideNums=E5E7EB&currStreakNum=FFFFFF&dates=9CA3AF&sideLabels=9CA3AF"/>
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanikaa205&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" height="165"/>
+<br><br>
+
+<a href="https://github.com/Sanikaa205">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanikaa205&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=E5E7EB&langs_count=8"/>
+</a>
 
 </div>
 
-<br/>
+---
 
 ---
 
