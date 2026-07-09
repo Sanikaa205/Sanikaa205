@@ -60,31 +60,13 @@ open_to:
 
 <div align="center">
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=java,js,python&theme=dark" />
-
-<br/><br/>
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,tailwind,html,css,vite&theme=dark" />
-
-<br/><br/>
-
-**Backend & Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,mongodb,mysql&theme=dark" />
-
-<br/><br/>
-
-**Tooling & Platforms**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm,postman,figma,vercel&theme=dark" />
-
+  <img src="./assets/tech-row-1.svg" width="850" alt="Programming Languages"/>
+  <img src="./assets/tech-row-2.svg" width="850" alt="Frontend"/>
+  <img src="./assets/tech-row-3.svg" width="850" alt="Backend & Databases"/>
+  <img src="./assets/tech-row-4.svg" width="850" alt="Tools "/>
+  <img src="./assets/tech-row-5.svg" width="850" alt="Platforms"/>
+  
 </div>
-
-<br/>
 
 ---
 
