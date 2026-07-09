@@ -8,16 +8,12 @@
 
 <br/>
 
-![](https://img.shields.io/badge/Information_Technology_Undergraduate-0D1117?style=flat-square&labelColor=0D1117&color=6D28D9)
-![](https://img.shields.io/badge/📍_India-0D1117?style=flat-square&labelColor=0D1117&color=4F46E5)
 
 <br/><br/>
 
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Sanikaa205&style=for-the-badge&color=6D28D9&labelColor=0D1117&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/Sanikaa205?style=for-the-badge&color=4F46E5&labelColor=0D1117&logo=github&label=FOLLOWERS" />
 
 </div>
 
