@@ -19,8 +19,9 @@ jobs:
           github_user_name: Sanikaa205
           outputs: |
              outputs: |
-                dist/github-contribution-grid-snake.svg?color_snake=%23A78BFA&color_dots=%23161B22,%23222C36,%23312E81,%235B21B6,%237C3AED
-                dist/github-contribution-grid-snake-dark.svg?color_snake=%23A78BFA&color_dots=%23161B22,%23222C36,%23312E81,%235B21B6,%237C3AED
+                outputs: |
+                  dist/github-contribution-grid-snake.svg?color_snake=%23C4B5FD&color_dots=%232B3440,%23414D63,%236D5EF8,%238B5CF6,%23C4B5FD
+                  dist/github-contribution-grid-snake-dark.svg?color_snake=%23C4B5FD&color_dots=%232B3440,%23414D63,%236D5EF8,%238B5CF6,%23C4B5FD
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
