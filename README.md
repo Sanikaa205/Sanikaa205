@@ -19,7 +19,7 @@
 
 ## About
 
-<div align="center">
+<div align="left">
 
 I'm an Information Technology undergraduate passionate about **Full Stack Development** and **AI-powered applications**. I enjoy building end-to-end software that combines clean architecture, intuitive user experiences, and practical problem-solving. Always exploring new technologies, improving my skills, and turning ideas into meaningful products.
 </div>
