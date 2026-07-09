@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:4F46E5,100:7C3AED&height=200&section=header&text=Sanika%20Shinde&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20AI%2FML%20Engineer%20in%20the%20Making&descAlignY=58&descSize=18"/>
 
 <a href="https://github.com/Sanikaa205">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+full-stack+%26+AI-powered+applications;Engineering+real+products%2C+not+tutorials." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+full-stack+%26+AI-powered+applications;Software+Engineering+%C2%B7+Machine+Learning+%C2%B7.;Engineering+real+products%2C+not+tutorials." alt="Typing SVG" />
 </a>
 
 <br/>
