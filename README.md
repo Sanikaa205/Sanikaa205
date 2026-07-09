@@ -191,7 +191,7 @@ A web application that scores a resume's compatibility against a job description
 <div align="center">
 
 <a href="https://github.com/Sanikaa205">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sanikaa205&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB&rank_icon=github&include_all_commits=true&count_private=true"/>
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sanikaa205&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB&rank_icon=github&include_all_commits=true&count_private=true"/>
 </a>
 
 <a href="https://github.com/Sanikaa205">
@@ -201,16 +201,12 @@ A web application that scores a resume's compatibility against a job description
 <br><br>
 
 <a href="https://github.com/Sanikaa205">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanikaa205&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=E5E7EB&langs_count=8"/>
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sanikaa205&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=E5E7EB&langs_count=8"/>
 </a>
 
 </div>
 
 ---
-
----
-
-<br/>
 
 ## Contribution Activity
 
