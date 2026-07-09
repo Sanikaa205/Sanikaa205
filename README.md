@@ -223,14 +223,11 @@ A web application that scores a resume's compatibility against a job description
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Sanikaa205/Sanikaa205/output/github-contribution-snake.svg" alt="Snake animation" width="100%" />
+<img src="https://raw.githubusercontent.com/Sanikaa205/Sanikaa205/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
 
 </div>
-
----
-
 <br/>
-
+---
 ## Current Focus
 
 ```yaml
