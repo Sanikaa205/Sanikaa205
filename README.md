@@ -26,12 +26,7 @@ I'm an Information Technology undergraduate passionate about **Full Stack Develo
 
 <br/>
 
-```yaml
-open_to:
-  - Software Engineering Roles
-  - AI / ML Internships
-  - Open Source Collaboration
-```
+
 
 <br/>
 
