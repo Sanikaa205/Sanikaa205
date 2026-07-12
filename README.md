@@ -7,7 +7,12 @@
 </a>
 
 <br/>
-
+```yaml
+open_to:
+  - Software Engineering Roles
+  - AI / ML Internships
+  - Open Source Collaboration
+```
 
 </div>
 
