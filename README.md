@@ -211,7 +211,26 @@ A web application that scores a resume's compatibility against a job description
 <br/>
 ---
 
+## Current Focus
 
+```yaml
+focus:
+  learning:
+    - System Design fundamentals
+    - Advanced AI/ML engineering
+  building:
+    - Full-stack web applications
+    - AI-powered tools and utilities
+  exploring:
+    - Computer Vision applications
+    - LLM-based application design
+  open_to:
+    - Software Engineering roles
+    - AI/ML internships
+    - Open source collaboration
+```
+
+<br/>
 ---
 
 <br/>
